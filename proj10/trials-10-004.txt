@@ -1,0 +1,42 @@
+
+Timing Matrix addition ...
+
+Trial 0: 0.110832
+Trial 1: 0.110728
+Trial 2: 0.115751
+Trial 3: 0.117668
+Trial 4: 0.112676
+Trial 5: 0.110215
+Trial 6: 0.112167
+Trial 7: 0.111468
+Trial 8: 0.109448
+Trial 9: 0.107065
+Average: 0.11180
+
+Timing Matrix transpose ...
+
+Trial 0: 0.21729
+Trial 1: 0.21850
+Trial 2: 0.22133
+Trial 3: 0.23163
+Trial 4: 0.22396
+Trial 5: 0.21831
+Trial 6: 0.21688
+Trial 7: 0.21351
+Trial 8: 0.21963
+Trial 9: 0.21977
+Average: 0.22008
+
+Timing Matrix fill operation ...
+
+Trial 0: 0.18718
+Trial 1: 0.17644
+Trial 2: 0.17683
+Trial 3: 0.17682
+Trial 4: 0.17575
+Trial 5: 0.17517
+Trial 6: 0.17638
+Trial 7: 0.17508
+Trial 8: 0.17633
+Trial 9: 0.17571
+Average: 0.17717
